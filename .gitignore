@@ -1,7 +1,7 @@
 *.rbxlx
 *.rbxl
-*.rbxmx
-*.rbxm
+# *.rbxmx
+# *.rbxm
 *.lock
 
 /Packages
