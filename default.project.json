@@ -1,5 +1,5 @@
 {
-  "name": "this-is-the-game",
+  "name": "prototype",
   "tree": {
     "$className": "DataModel",
     "ReplicatedStorage": {
@@ -9,14 +9,6 @@
       },
       "Packages": {
         "$path": "Packages"
-      }
-    },
-    "ServerScriptService": {
-      "SyntheticDev": {
-        "$className": "Folder",
-        "Server": {
-          "$path": "src/server"
-        }
       }
     },
     "StarterPlayer": {
