@@ -1,0 +1,8 @@
+*.rbxlx
+*.rbxl
+*.rbxmx
+*.rbxm
+*.lock
+
+/Packages
+/models
